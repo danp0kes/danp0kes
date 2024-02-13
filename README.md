@@ -12,8 +12,3 @@ Here are some ideas to get you started:
 - 👯 Looking to collaborate on **anything data science related**
 - 🤝 Seeking advice about **breaking into tech**
 - 🤞 And I'm building my first gameboy
-
-<h2 align="left"> Feel free to:</h2>
-- 👨‍💻 Check out my portfolio here: [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/danp0kes/triple-ten-projects)
-- 💬 Ask me about **TripleTen**
-- 📫 Reach me at: **danjpocock@gmail.com**
