@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🤓 My future job title: **Data Scientist**
+- 🤓 Future job title: **Data Scientist**
 - 🔭 Working on the **Data Science Bootcamp** with TripleTen
 - 🌱 Currently learning **time series analysis with machine learning techniques**
 - 👯 Looking to collaborate on **anything data science related**
