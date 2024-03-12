@@ -10,7 +10,9 @@ Here are some ideas to get you started:
 - 🔭 Working on the **Data Science Bootcamp** with TripleTen
 - 🌱 Currently learning **computer vision**
 - 🐍 With proficiency in python and SQL
-- 📈 Completed projects in Machine Learning and business, texts, and time series analysis
+- 📈 Completed projects in machine learning with business and texts
 - 👯 Looking to collaborate on **anything data science related**
 - 🤝 Seeking advice about **breaking into tech**
 - 🤞 And I'm building my first gameboy
+
+Check out my [portfolio of works here](triple-ten-projects)
