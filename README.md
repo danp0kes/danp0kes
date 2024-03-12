@@ -8,9 +8,9 @@ Here are some ideas to get you started:
 
 - 🤓 Future job title: **Data Scientist**
 - 🔭 Working on the **Data Science Bootcamp** with TripleTen
-- 🌱 Currently learning **computer vision**
+- 🌱 Currently learning **unsupervised learning**
 - 🐍 With proficiency in python and SQL
-- 📈 Completed projects in machine learning with business and texts
+- 📈 Completed projects in machine learning with business, texts and computer vision
 - 👯 Looking to collaborate on **anything data science related**
 - 🤝 Seeking advice about **breaking into tech**
 - 🤞 And I'm building my first gameboy
