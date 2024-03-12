@@ -1,4 +1,4 @@
-<h1 align="center">Hey it's Dan here 👋</h1>
+<h1 align="center">Hello there, it's Dan Pocock 👋</h1>
 
 <!--
 **danp0kes/danp0kes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
