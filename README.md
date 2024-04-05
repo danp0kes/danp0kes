@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - 🤝 Seeking advice about **breaking into tech**
 - 🤞 And I'm building my first gameboy
 
-Check out my [portfolio of works here](https://github.com/danp0kes/triple-ten-projects)
+Check out my [portfolio](https://github.com/danp0kes/triple-ten-projects)
