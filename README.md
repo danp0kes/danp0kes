@@ -7,8 +7,7 @@ Here are some ideas to get you started:
 -->
 
 - 🤓 Job title: **Data Scientist**
-- 🔭 Working on an externship with **Besample**
-<!--- 🌱 Currently learning **** -->
+- 🔭 Working on an externship with **Besample** <!--- 🌱 Currently learning **** -->
 - 🐍 With proficiency in python and SQL
 - 📈 Completed projects in machine learning with business, texts, computer vision and unsupervised learning
 - 👯 Looking to collaborate on **anything data science related**
