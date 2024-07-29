@@ -9,8 +9,8 @@ Here are some ideas to get you started:
 - 🤓 Job title: **Data Scientist**
 - 🔭 Working on machine learning models for media marketers at **Melbrand Studios** <!--- 🌱 Currently learning **** -->
 - 🐍 With proficiency in python and SQL
-- 📈 Completed projects in machine learning with business, texts, computer vision and unsupervised learning
-- 👯 Looking to collaborate on **anything data science related**
+- 📈 Completed projects in machine learning with business, texts, computer vision and unsupervised learning models.
+- 👯 Looking to collaborate on **data science related**
 - 🤝 Seeking advice about **breaking into tech**
 - 🤞 And I'm building my first gameboy
 
