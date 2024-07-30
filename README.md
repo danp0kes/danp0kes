@@ -15,3 +15,10 @@ Here are some ideas to get you started:
 - 🤞 And I'm building my first gameboy
 
 Check out my [portfolio.](https://github.com/danp0kes/triple-ten-projects)
+
+---
+
+### Latest Projects
+
+<table>
+<tr><td><a href="https://www.loom.com/share/0479696709ec4e639a444299bf855180"></a></td>
