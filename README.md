@@ -40,7 +40,6 @@ Here are some ideas to get you started:
       </a>
     </td>
     <td>Through sophisticated predictive modeling, I aim to identify subtle patterns and indicators that precede customer churn. By detecting early signals of customer dissatisfaction, timely interventions such as promotional codes and tailored plan options can be issued to mitigate churn risk and foster long-term customer loyalty. Check out the  <a href="https://github.com/danp0kes/triple-ten-projects/tree/main/projects/final-project" target="_blank">project.</a> <br><br>
-
     </td>
   </tr>
 </table>
