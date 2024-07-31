@@ -11,8 +11,6 @@ Here are some ideas to get you started:
 - 👯 Looking to collaborate on **data science related** projects within finance
 - 🤞 And I'm building my first Gameboy
 
-Check out my [portfolio.](https://github.com/danp0kes/triple-ten-projects)
-
 ---
 
 <h2 align='left'> Projects </h2>
@@ -33,3 +31,26 @@ Application: Eliminates the need for manual age verification for over half of al
 </td>
   </tr>
 </table>
+
+<h3 align='left'> Finding Alpha: The Weekend Effect </h3>
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/danp0kes/monday-effect" target="_blank">
+        <img src="gifs/weekend-effect.gif" alt="Weekend Effect Gif" width="300">
+      </a>
+    </td>
+    <td>How do market trends continue throughout the weekend? Are Friday and Monday returns correlated? <a href="https://github.com/danp0kes/monday-effect" target="_blank">project</a>, I use TensorFlow to create a model that predicts your age. <br><br>
+
+Application:
+- 16 basis point gains can be made on average when trading on Monday after a poor Friday performance.
+- Stronger correlations exist between prices on Monday and Tuesday (-0.66 in 2020)
+- In a bull market invest on Friday, in a bear market invest on Monday
+
+
+</td>
+  </tr>
+</table>
+
+Check out my other [projects](https://github.com/danp0kes/triple-ten-projects)
