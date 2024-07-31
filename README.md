@@ -39,8 +39,8 @@ Here are some ideas to get you started:
         <img src="gifs/weekend-effect.gif" alt="Weekend Effect Gif" width="300">
       </a>
     </td>
-    <td>How do market trends continue throughout the weekend? Are Friday and Monday returns correlated? In this <a href="https://github.com/danp0kes/monday-effect" target="_blank">project</a>, I use historical S&P data to find correlations between stock prices on different days of the week. <br><br>
-    Results: Trading on Monday after a poor Friday performance results in greatest gain. Stronger correlations exist between prices on Monday and Tuesday. In a bull market invest on Friday, in a bear market invest on Monday.
+    <td>How do market trends continue throughout the weekend? Are Friday and Monday returns correlated? Which day of the week is riskiest to invest on? Check out the <a href="https://github.com/danp0kes/monday-effect" target="_blank">project.</a> <br><br>
+    Results: Trading on Monday after a poor Friday performance results in greatest gain with the least risk.
     </td>
   </tr>
 </table>
