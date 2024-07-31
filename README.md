@@ -30,20 +30,6 @@ Here are some ideas to get you started:
   </tr>
 </table>
 
-<h3 align='left'> Customer Retention </h3>
-
-<table>
-  <tr>
-    <td align="center" width="300">
-      <a href="https://github.com/danp0kes/triple-ten-projects/tree/main/projects/final-project" target="_blank">
-        <img src="gifs/churn.png" alt="Churn" width="300">
-      </a>
-    </td>
-    <td>Through sophisticated predictive modeling, subtle patterns and indicators that precede customer churn are  found. By detecting early signals of customer dissatisfaction, timely interventions such as promotional codes and tailored plan options can be issued to mitigate churn risk and foster long-term customer loyalty. Check out the  <a href="https://github.com/danp0kes/triple-ten-projects/tree/main/projects/final-project" target="_blank">project.</a>
-    </td>
-  </tr>
-</table>
-
 <h3 align='left'> Finding Alpha: The Weekend Effect </h3>
 
 <table>
@@ -55,6 +41,20 @@ Here are some ideas to get you started:
     </td>
     <td>How do market trends continue throughout the weekend? Are Friday and Monday returns correlated? Which day of the week is riskiest to invest on? Check out the <a href="https://github.com/danp0kes/monday-effect" target="_blank">project.</a> <br><br>
     Results: Trading on a Monday after a poor Friday performance results in the greatest gain with the least amount risk when compared to any other days.
+    </td>
+  </tr>
+</table>
+
+<h3 align='left'> Customer Retention </h3>
+
+<table>
+  <tr>
+    <td align="center" width="300">
+      <a href="https://github.com/danp0kes/triple-ten-projects/tree/main/projects/final-project" target="_blank">
+        <img src="gifs/churn.png" alt="Churn" width="300">
+      </a>
+    </td>
+    <td>Through sophisticated predictive modeling, subtle patterns and indicators that precede customer churn are  found. By detecting early signals of customer dissatisfaction, timely interventions such as promotional codes and tailored plan options can be issued to mitigate churn risk and foster long-term customer loyalty. Check out the  <a href="https://github.com/danp0kes/triple-ten-projects/tree/main/projects/final-project" target="_blank">project.</a>
     </td>
   </tr>
 </table>
