@@ -26,7 +26,7 @@ Check out my [portfolio.](https://github.com/danp0kes/triple-ten-projects)
         <img src="gifs/predict-age.gif" alt="Predict Age Gif" width="300">
       </a>
     </td>
-    <td>Ever wanted to know how old you look based on a photo? In this project, I use TensorFlow to create a model that predicts your age within 6.1 years of your actual age. 
+    <td>Ever wanted to know how old you look based on a photo? In this [project](https://github.com/danp0kes/age-predictor), I use TensorFlow to create a model that predicts your age within 6.1 years of your actual age. <br><br>
     
 - How the model was developed 🛠️
 - Its performance (the highs and the lows) 📊
