@@ -40,7 +40,7 @@ Here are some ideas to get you started:
       </a>
     </td>
     <td>How do market trends continue throughout the weekend? Are Friday and Monday returns correlated? Which day of the week is riskiest to invest on? Check out the <a href="https://github.com/danp0kes/monday-effect" target="_blank">project.</a> <br><br>
-    Results: Trading on Monday after a poor Friday performance results in greatest gain with the least risk.
+    Results: Trading on a Monday after a poor Friday performance results in the greatest gain with the least amount risk when compared to any other days.
     </td>
   </tr>
 </table>
