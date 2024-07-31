@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 - 🔭 Working on machine learning models for media marketers at **Melbrand Studios** <!--- 🌱 Currently learning **** -->
 - 📈 Completed projects in machine learning with business, texts, computer vision and unsupervised learning models.
-- 👯 Looking to collaborate on **data science related** projects in the fintech space
+- 👯 Looking to collaborate on **data science related** projects within finance
 - 🤞 And I'm building my first gameboy
 
 Check out my [portfolio.](https://github.com/danp0kes/triple-ten-projects)
