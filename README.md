@@ -8,17 +8,10 @@ Here are some ideas to get you started:
 
 - 🤓 Job title: **Data Scientist**
 - 🔭 Working on machine learning models for media marketers at **Melbrand Studios** <!--- 🌱 Currently learning **** -->
-- 🐍 With proficiency in python and SQL
 - 📈 Completed projects in machine learning with business, texts, computer vision and unsupervised learning models.
-- 👯 Looking to collaborate on **data science related**
-- 🤝 Seeking advice about **breaking into tech**
+- 👯 Looking to collaborate on **data science related** projects in the fintech space
 - 🤞 And I'm building my first gameboy
 
 Check out my [portfolio.](https://github.com/danp0kes/triple-ten-projects)
 
 ---
-
-### Latest Projects
-
-<table>
-<tr><td><a href="https://www.loom.com/share/0479696709ec4e639a444299bf855180"></a></td>
