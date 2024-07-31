@@ -6,8 +6,8 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 Working on machine learning models for media marketers at **Melbrand Studios** <!--- 🌱 Currently learning **** -->
-- 📈 Completed projects in machine learning with business, texts, computer vision, and unsupervised learning models.
+- 🔭 Working with **Melbrand Studios** on machine learning models for media marketers <!--- 🌱 Currently learning **** -->
+- 📈 Completed projects for Besample using unsupervised learning models.
 - 👯 Looking to collaborate on **data science related** projects within finance
 - 🤞 And I'm building my first Gameboy
 
