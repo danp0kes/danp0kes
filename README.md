@@ -41,12 +41,12 @@ Application: Eliminates the need for manual age verification for over half of al
         <img src="gifs/weekend-effect.gif" alt="Weekend Effect Gif" width="300">
       </a>
     </td>
-    <td>How do market trends continue throughout the weekend? Are Friday and Monday returns correlated? <a href="https://github.com/danp0kes/monday-effect" target="_blank">project</a>, I use TensorFlow to create a model that predicts your age. <br><br>
+    <td>How do market trends continue throughout the weekend? Are Friday and Monday returns correlated? In this <a href="https://github.com/danp0kes/monday-effect" target="_blank">project</a>, I use historical S&P data to find correlations between stock prices on different days of the week. <br><br>
 
-Application:
-- 16 basis point gains can be made on average when trading on Monday after a poor Friday performance.
+Results:
+- 16 basis point gains made when trading on Monday after a poor Friday performance.
 - Stronger correlations exist between prices on Monday and Tuesday (-0.66 in 2020)
-- In a bull market invest on Friday, in a bear market invest on Monday
+- In a bull market invest on Friday, in a bear market invest on Monday.
 
 
 </td>
