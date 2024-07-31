@@ -19,16 +19,14 @@ Here are some ideas to get you started:
 
 <table>
   <tr>
-    <td>
+    <td align="center" width="300">
       <a href="https://www.loom.com/share/0479696709ec4e639a444299bf855180" target="_blank">
         <img src="gifs/predict-age.gif" alt="Predict Age Gif" width="300">
       </a>
     </td>
     <td>Ever wanted to know how old you look based on a photo? In this <a href="https://github.com/danp0kes/age-predictor" target="_blank">project</a>, I use TensorFlow to create a model that predicts your age. <br><br>
-
-Application: Eliminates the need for manual age verification for over half of all customers purchasing alcohol.
-
-</td>
+    Application: Eliminates the need for manual age verification for over half of all customers purchasing alcohol.
+    </td>
   </tr>
 </table>
 
@@ -36,20 +34,17 @@ Application: Eliminates the need for manual age verification for over half of al
 
 <table>
   <tr>
-    <td>
+    <td align="center" width="300">
       <a href="https://github.com/danp0kes/monday-effect" target="_blank">
         <img src="gifs/weekend-effect.gif" alt="Weekend Effect Gif" width="300">
       </a>
     </td>
     <td>How do market trends continue throughout the weekend? Are Friday and Monday returns correlated? In this <a href="https://github.com/danp0kes/monday-effect" target="_blank">project</a>, I use historical S&P data to find correlations between stock prices on different days of the week. <br><br>
-
-Results:
-- 16 basis point gains made when trading on Monday after a poor Friday performance.
-- Stronger correlations exist between prices on Monday and Tuesday (-0.66 in 2020)
-- In a bull market invest on Friday, in a bear market invest on Monday.
-
-
-</td>
+    Results:
+    - 16 basis point gains made when trading on Monday after a poor Friday performance.
+    - Stronger correlations exist between prices on Monday and Tuesday (-0.66 in 2020)
+    - In a bull market invest on Friday, in a bear market invest on Monday.
+    </td>
   </tr>
 </table>
 
