@@ -6,7 +6,6 @@
 Here are some ideas to get you started:
 -->
 
-- 🤓 Job title: **Data Scientist**
 - 🔭 Working on machine learning models for media marketers at **Melbrand Studios** <!--- 🌱 Currently learning **** -->
 - 📈 Completed projects in machine learning with business, texts, computer vision and unsupervised learning models.
 - 👯 Looking to collaborate on **data science related** projects in the fintech space
