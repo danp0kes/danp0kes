@@ -36,7 +36,7 @@ Here are some ideas to get you started:
   <tr>
     <td align="center" width="300">
       <a href="https://github.com/danp0kes/triple-ten-projects/tree/main/projects/final-project" target="_blank">
-        <img src="churn.png" alt="Weekend Effect Gif" width="300">
+        <img src="gifs/churn.png" alt="Churn" width="300">
       </a>
     </td>
     <td>Through sophisticated predictive modeling, I aim to identify subtle patterns and indicators that precede customer churn. By detecting early signals of customer dissatisfaction, timely interventions such as promotional codes and tailored plan options can be issued to mitigate churn risk and foster long-term customer loyalty. Check out the  <a href="https://github.com/danp0kes/triple-ten-projects/tree/main/projects/final-project" target="_blank">project.</a> <br><br>
